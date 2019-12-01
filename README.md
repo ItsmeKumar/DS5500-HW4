@@ -442,7 +442,7 @@ plt.title('Proportion of total cut for selected schools');
 ```
 
 
-![png](output_7_0.png)
+![png](https://github.com/ItsmeKumar/DS5500-HW4/blob/master/plots/output_7_0.png)
 
 
 
@@ -453,7 +453,7 @@ plt.title("Top 10 school disticts taking highest cut");
 ```
 
 
-![png](output_8_0.png)
+![png](https://github.com/ItsmeKumar/DS5500-HW4/blob/master/plots/output_8_0.png)
 
 
 ## Problem 2
@@ -561,7 +561,7 @@ plt.xticks(rotation=15);
 ```
 
 
-![png](output_15_0.png)
+![png](https://github.com/ItsmeKumar/DS5500-HW4/blob/master/plots/output_15_0.png)
 
 
 The distributions do have differences. White students are 23% higher in proportion in the schools that were selected for budget cuts compared to the proportion in no budget cuts. Students of all the other races have an opposite trend. The model do have some biasess included.
@@ -607,7 +607,7 @@ plt.show();
 ```
 
 
-![png](output_22_0.png)
+![png](https://github.com/ItsmeKumar/DS5500-HW4/blob/master/plots/output_22_0.png)
 
 
 
@@ -617,7 +617,7 @@ plt.title('Proportion of disabled students');
 ```
 
 
-![png](output_23_0.png)
+![png](https://github.com/ItsmeKumar/DS5500-HW4/blob/master/plots/output_23_0.png)
 
 
 The budget cut is slightly higher in the school districts with low proportion of disabled students. But, the distributions still look similar and the hidden bias is not very significant.
